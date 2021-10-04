@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "programmeName": "Google Data Analytics",
+        "price": 5000,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/1.jpg?raw=true"
+    },
+    {
+        "id": "2",
+        "programmeName": "Google Project Management",
+        "price": 4000,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/2.jpg?raw=true"
+    },
+    {
+        "id": "3",
+        "programmeName": "IBM Data Science",
+        "price": 10000,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/3.jpg?raw=true"
+    },
+    {
+        "id": "4",
+        "programmeName": "Google UX Design",
+        "price": 5500,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/4.jpg?raw=true"
+    },
+    {
+        "id": "5",
+        "programmeName": "Google It Support",
+        "price": 3000,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/5.jpg?raw=true"
+    },
+    {
+        "id": "6",
+        "programmeName": "Intro to Data Science",
+        "price": 5000,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/6.jpg?raw=true"
+    },
+    {
+        "id": "7",
+        "programmeName": "Indigenous Canada",
+        "price": 10000,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/7.jpg?raw=true"
+    },
+    {
+        "id": "8",
+        "programmeName": "Deep Learning",
+        "price": 5600,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/8.jpg?raw=true"
+    },
+    {
+        "id": "9",
+        "programmeName": "data science Fundamentals with Python",
+        "price": 7000,
+        "img": "https://github.com/ShimulAUST/imageElearning/blob/main/9.jpg?raw=true"
+    }
+]
