@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { Container, Nav, Navbar } from 'react-bootstrap';
 import "bootstrap/dist/css/bootstrap.min.css";
 import img from '../../images/logo.png'
 import { NavLink } from 'react-router-dom';
@@ -9,7 +9,7 @@ const Header = () => {
         <Navbar bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand> Elearning Master <img height="50px" src={img} alt="logo"></img> </Navbar.Brand>
-                <Nav className="me-auto">
+                <Nav className="me-auto navbar">
                     <NavLink to="/home">Home</NavLink>
                     <NavLink to="/services">Services</NavLink>
                     <NavLink to="/about">About Us</NavLink>

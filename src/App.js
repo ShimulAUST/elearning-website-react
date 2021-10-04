@@ -7,6 +7,7 @@ import NotFound from './components/NotFound/NotFound';
 import Contact from './components/Contact/Contact';
 import About from './components/About/About';
 import Home from './components/Home/Home';
+import Services from './components/Services/Services';
 
 
 function App() {
@@ -22,9 +23,8 @@ function App() {
             <Contact></Contact>
           </Route>
           <Route exact path="/services">
-
+            <Services></Services>
           </Route>
-
           <Route exact path="/home">
             <Home></Home>
           </Route>

@@ -11,10 +11,10 @@ const Course = (props) => {
             <CardGroup>
                 <Card>
                     <Card.Img variant="top" src={course.img} height="250px" />
-                    <Card.Body>
+                    <Card.Body style={{ textAlign: 'center' }}>
                         <Card.Title>{course.programmeName}</Card.Title>
                         <Card.Text>
-                            $ {course.price}
+                            <h2>$ {course.price}</h2>
                         </Card.Text>
                     </Card.Body>
                     <Card.Footer>
