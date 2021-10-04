@@ -16,8 +16,9 @@ const Home = () => {
     return (
         <div>
             <HomeCourosel></HomeCourosel>
-            <Container className="serviceSection">
-                <div className="row mt-5">
+            <Container className="serviceSection mt-5">
+                <h2>Our Services</h2>
+                <div className="row">
                     {
                         items.map(course => <Course
                             key={course.id}

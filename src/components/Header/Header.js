@@ -9,7 +9,7 @@ const Header = () => {
         <Navbar bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand> Elearning Master <img height="50px" src={img} alt="logo"></img> </Navbar.Brand>
-                <Nav className="me-auto navbar">
+                <Nav className="navbar">
                     <NavLink to="/home">Home</NavLink>
                     <NavLink to="/services">Services</NavLink>
                     <NavLink to="/about">About Us</NavLink>
